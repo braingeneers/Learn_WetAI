@@ -1,6 +1,6 @@
 # Tutorials for WetAI
 
-This is a tutorial course, teaching you how to use the **WetAI**. It starts by explaining basic controls and ends with building apps. Each tutorial has an instructional video.
+This is a tutorial course, teaching you how to use **WetAI**. It starts by explaining basic controls and ends with building apps. Each tutorial has an instructional video.
 
 ## Video Tutorials
 * [1- Jupyter and Python](https://www.youtube.com/watch?v=6g2K5VTD2yM)
