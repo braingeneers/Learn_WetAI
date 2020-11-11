@@ -1,6 +1,6 @@
-# Tutorials for WetAI Interface 
+# Tutorials for WetAI
 
-This folder is a tutorial course, teaching you how to use the **WetAI** interface, **io**. It starts with explaining basic controls of **io** and ends with you building fully functioning applications. Each tutorial has an instructional video that guides you through the notebook.
+This is a tutorial course, teaching you how to use the **WetAI**. It starts by explaining basic controls and ends with building apps. Each tutorial has an instructional video.
 
 ## Video Tutorials
 * [1- Jupyter and Python](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=6g2K5VTD2yM)
